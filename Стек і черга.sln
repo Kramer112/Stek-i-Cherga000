@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Стек і черга", "Стек і черга\Стек і черга.csproj", "{B89DCCEB-5B95-4218-A9B0-B3AF9B97608A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89DCCEB-5B95-4218-A9B0-B3AF9B97608A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89DCCEB-5B95-4218-A9B0-B3AF9B97608A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89DCCEB-5B95-4218-A9B0-B3AF9B97608A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89DCCEB-5B95-4218-A9B0-B3AF9B97608A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {456F1ABE-F80E-48E3-B369-2B75E374D28A}
+	EndGlobalSection
+EndGlobal
